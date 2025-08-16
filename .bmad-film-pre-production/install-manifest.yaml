@@ -1,0 +1,110 @@
+version: 1.0.0
+installed_at: '2025-08-16T10:45:35.841Z'
+install_type: expansion-pack
+expansion_pack_id: bmad-film-pre-production
+expansion_pack_name: bmad-film-pre-production
+ides_setup:
+  - claude-code
+  - roo
+  - kilo
+  - cline
+  - gemini
+  - crush
+  - github-copilot
+files:
+  - path: .bmad-film-pre-production\config.yaml
+    hash: 2e8df0921615c851
+    modified: false
+  - path: .bmad-film-pre-production\workflows\film-pre-production-workflow.yaml
+    hash: 2e5a95faa5281360
+    modified: false
+  - path: .bmad-film-pre-production\data\elicitation-methods.md
+    hash: cfe97500c1015e80
+    modified: false
+  - path: .bmad-film-pre-production\data\bmad-kb.md
+    hash: eaae0d66d1be12c5
+    modified: false
+  - path: .bmad-film-pre-production\utils\workflow-management.md
+    hash: f31556b5cb74e9a7
+    modified: false
+  - path: .bmad-film-pre-production\utils\bmad-doc-template.md
+    hash: a1514ec3d5729788
+    modified: false
+  - path: .bmad-film-pre-production\checklists\screenwriting-checklist.md
+    hash: 9bee4f337235ab1f
+    modified: false
+  - path: .bmad-film-pre-production\checklists\production-design-checklist.md
+    hash: 2b3111ab27af3c2d
+    modified: false
+  - path: .bmad-film-pre-production\checklists\producing-checklist.md
+    hash: f411fd4efa81f503
+    modified: false
+  - path: .bmad-film-pre-production\checklists\directing-checklist.md
+    hash: 5ec37710a1050982
+    modified: false
+  - path: .bmad-film-pre-production\checklists\cinematography-checklist.md
+    hash: 11e1909ea7fef4b4
+    modified: false
+  - path: .bmad-film-pre-production\templates\storyboard-tmpl.md
+    hash: 48551720ed1900e2
+    modified: false
+  - path: .bmad-film-pre-production\templates\set-design-tmpl.md
+    hash: 81b73e3c05841151
+    modified: false
+  - path: .bmad-film-pre-production\templates\screenplay-tmpl.md
+    hash: 719df0424163183f
+    modified: false
+  - path: .bmad-film-pre-production\templates\call-sheet-tmpl.md
+    hash: 75f3302868ffeb3e
+    modified: false
+  - path: .bmad-film-pre-production\templates\budget-tmpl.csv
+    hash: b737703065dea4c1
+    modified: false
+  - path: .bmad-film-pre-production\tasks\scout-locations.md
+    hash: b3c23823ed446185
+    modified: false
+  - path: .bmad-film-pre-production\tasks\kb-mode-interaction.md
+    hash: 71ec8d71d55c9d11
+    modified: false
+  - path: .bmad-film-pre-production\tasks\execute-checklist.md
+    hash: a75e90d401edd83d
+    modified: false
+  - path: .bmad-film-pre-production\tasks\develop-screenplay.md
+    hash: 9d9ad5c181189aa1
+    modified: false
+  - path: .bmad-film-pre-production\tasks\create-storyboard.md
+    hash: a5998b012c4e8ab6
+    modified: false
+  - path: .bmad-film-pre-production\tasks\create-production-schedule.md
+    hash: fb09af5966b1ab17
+    modified: false
+  - path: .bmad-film-pre-production\tasks\create-doc.md
+    hash: f14cdef8fcb6a176
+    modified: false
+  - path: .bmad-film-pre-production\tasks\casting-call.md
+    hash: ea0682aa90cdce0c
+    modified: false
+  - path: .bmad-film-pre-production\tasks\advanced-elicitation.md
+    hash: 3008803d6676006e
+    modified: false
+  - path: .bmad-film-pre-production\agent-teams\film-pre-production-team.yaml
+    hash: fe2a091328ee1216
+    modified: false
+  - path: .bmad-film-pre-production\agents\screenwriter.md
+    hash: 2b545f82ac0f3083
+    modified: false
+  - path: .bmad-film-pre-production\agents\production-designer.md
+    hash: 4f33f4d97ef9f205
+    modified: false
+  - path: .bmad-film-pre-production\agents\producer.md
+    hash: 3208848b3dd9a98b
+    modified: false
+  - path: .bmad-film-pre-production\agents\director.md
+    hash: 4539368d903be5d7
+    modified: false
+  - path: .bmad-film-pre-production\agents\cinematographer.md
+    hash: 2d7333f187052f9e
+    modified: false
+  - path: .bmad-film-pre-production\agents\bmad-orchestrator.md
+    hash: 1af04c60fb5bb7e4
+    modified: false
