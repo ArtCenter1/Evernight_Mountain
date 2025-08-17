@@ -26,3 +26,12 @@ Let's start with the first question. Team, what are your ideas for foreshadowing
 **Narrative Designer:** We could use a structural echo. What if we introduce a brief, seemingly innocent flashback early on? A childhood memory where the twins are playing, and one says to the other, 'If you lose, you have to be me for a whole day.' It's a line that the audience will forget, but it will come rushing back during the final reveal, making the identity swap feel like a dark, twisted fulfillment of a childhood pact.
 
 **Genre Specialist:** Leaning into the psychological thriller genre, we can play with the concept of the 'unreliable narrator'. The audio recording is our narrator. What if we visually contradict the recording in a minor way early in the story? For example, the recording says, 'We were all sitting by the fire,' but for a split second, the camera shows one person standing in the shadows. It's a fleeting detail that creates a sense of unease and signals to the audience that what they are hearing might not be the whole truth.
+
+---
+### The Role of the Monster Brainstorm
+
+**Character Psychologist:** The monster could be a physical manifestation of the brothers' toxic relationship. It appears when their conflict is at its peak. Its ferocity could mirror Xiang's hidden rage and resentment. The monster doesn't just attack people; it attacks the fragile bonds between them, forcing their secrets and betrayals into the open.
+
+**Genre Specialist:** From a thriller perspective, ambiguity is our friend. Is the monster real, or a shared psychosis brought on by stress, isolation, and the mountain's strange atmosphere? The 1969 journal mentioned hearing sounds, not seeing a creature. Perhaps the 'monster' is a psychological contagion, a madness that infects the group, and the 'monster' we see is just how their terrified minds interpret the violence they inflict on each other.
+
+**World Builder:** We can connect the monster to the mountain's lore. The murals depicted a 'mountain god'. What if the monster is this entity, a guardian that awakens when trespassers with dark secrets enter its domain? It's not just a mindless beast; it's a judge. It doesn't just kill; it forces them to confess. The inscription 'Only by revealing all secrets can dawn arrive' becomes the monster's modus operandi. It's the living embodiment of the mountain's curse.
