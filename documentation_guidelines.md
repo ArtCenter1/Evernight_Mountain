@@ -26,5 +26,27 @@ All creative sessions will be documented following these guidelines:
 - **Producer:** Marcus / 馬庫斯
 - **Director:** Donnie / 唐尼
 
-## 2. README.md Updates
+## 2. Workflow Feedback Documentation
+
+At the end of each session, a dedicated section for workflow feedback should be added to the session transcript. This is crucial for the meta-goal of improving the BMad method and expansion packs.
+
+Use the following template:
+
+```markdown
+---
+## 4. Process & Workflow Notes / 流程與工作筆記
+
+*   **Agent(s) Used / 使用的代理:** 
+*   **What Worked Well / 順利的部分:** 
+*   **Pain Points & Inefficiencies / 困難與低效率之處:** 
+*   **Ideas for New Tasks/Templates/Checklists / 新任務/模板/清單的想法:** 
+*   **General Observations / 綜合觀察:** 
+---
+```
+
+## 3. README.md Updates
 - After each session, the main `README.md` file should be updated with a link to the new session transcript under the "Session Records" section.
+
+## 4. Version Control
+- All documentation will be managed using Git.
+- The Editor is responsible for committing and pushing changes after each session.
