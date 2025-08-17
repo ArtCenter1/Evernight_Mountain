@@ -1,3 +1,5 @@
+![Evernight Mountain Header](Evernight_Mountain_header.png)
+
 # Evernight Mountain / 永夜山 - Production Bible
 
 **A Psychological Thriller by the BMad Creative Writing Team**
