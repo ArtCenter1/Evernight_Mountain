@@ -55,7 +55,7 @@
 
 *This section contains links to the transcripts of our creative sessions.*
 
-*   [Phase 1: Initial Analysis](Docs/phase_1_initial_analysis_bilingual.md)
-*   [Phase 2: Plot & Structure Session](Docs/plot_and_structure_session_bilingual.md)
+*   [Phase 1: Initial Analysis / 第一階段：初步分析](Docs/phase_1_initial_analysis_bilingual.md)
+*   [Phase 2: Plot & Structure Session / 第二階段：情節與結構會議](Docs/plot_and_structure_session_bilingual.md)
 
 ---
