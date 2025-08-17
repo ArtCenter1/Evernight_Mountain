@@ -66,3 +66,7 @@ Let's start with the first question. Team, what are your ideas for foreshadowing
 
 ---
 [Download this transcript](plot_and_structure_session_bilingual.md)
+
+---
+
+[Return to Home Page](../README.md)
