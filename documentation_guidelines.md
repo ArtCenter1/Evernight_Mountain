@@ -14,6 +14,9 @@ All creative sessions will be documented following these guidelines:
 - **Agent Names:** All agents should be referred to by their full title and name in both languages.
 - **Checkboxes:** Each agent's contribution should be preceded by a checkbox (`- [ ]`).
 - **Numbered Checkboxes for Reviews:** For comprehensive sessions or expanded analyses, use numbered checkboxes (e.g., `- [ ] 1.1 EN:`) to facilitate external review and idea selection. Numbers should follow a pattern like AgentNumber.IdeaNumber (e.g., 1.1 for World Builder's first idea).
+- **Navigation Links:** All child pages should include navigation links at the top and bottom:
+  - Top: "Return to Home Page / 返回主頁" linking to README.md
+  - Bottom right: "Next / 下一頁" linking to the next logical page in sequence
 - **Download Link:** Each file should end with a markdown link to itself for easy downloading.
 
 ### 1.3. Agent Roster

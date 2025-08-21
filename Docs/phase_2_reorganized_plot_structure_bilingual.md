@@ -1,8 +1,12 @@
-# Phase 2: Reorganized Plot & Structure Session - Bilingual Transcript
+# Phase 2: Reorganized Plot & Structure Session - Bilingual Transcript / 第二階段：重新組織情節與結構會議 - 雙語記錄
 
 **Scribe:** Editor Edward / 記錄員：愛德華
 
-This reorganized session groups all ideas by Arthur's workflow questions for better readability and discussion flow. Each question is addressed comprehensively by all attendees before moving to the next.
+This reorganized session groups all ideas by Arthur's workflow questions for better readability and discussion flow. Each question is addressed comprehensively by all attendees before moving to the next. / 這個重新組織的會議按亞瑟的工作流程問題將所有想法分組，以提高可讀性和討論流程。每個問題在移動到下一個之前由所有出席者全面解決。
+
+<div style="text-align: left; margin-bottom: 20px;">
+  <a href="../README.md">Return to Home Page / 返回主頁</a>
+</div>
 
 ---
 
@@ -130,4 +134,10 @@ This reorganized session groups all ideas by Arthur's workflow questions for bet
 
 **Download Link / 下載連結:** [phase_2_reorganized_plot_structure_bilingual.md](Docs/phase_2_reorganized_plot_structure_bilingual.md)
 
-[Return to Home Page](../README.md) / [返回主頁](../README.md)
+<div style="text-align: left; margin-top: 20px;">
+  <a href="../README.md">Return to Home Page / 返回主頁</a>
+</div>
+
+<div style="text-align: right; margin-top: 20px;">
+  <a href="phase_3_character_development_session_bilingual.md">Next / 下一頁</a>
+</div>
