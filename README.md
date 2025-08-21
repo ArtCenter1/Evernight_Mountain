@@ -46,8 +46,8 @@
 ## 4. Production Progress / 製作進度
 
 *   **Current Phase:** Pre-production / Script Development
-*   **Status:** Brainstorming plot and structure enhancements.
-*   **Next Steps:** Complete plot and structure brainstorming, then move to character development.
+*   **Status:** Completed character development session; refined 3 core character arcs with production-friendly adjustments.
+*   **Next Steps:** Script revisions by week's end, then prepare for casting alignment meeting (2025-08-28).
 
 ---
 
