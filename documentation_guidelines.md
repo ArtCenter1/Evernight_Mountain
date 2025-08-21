@@ -13,6 +13,7 @@ All creative sessions will be documented following these guidelines:
 - **Bilingual Content:** All content should be provided in both English (EN) and Traditional Chinese (ZH).
 - **Agent Names:** All agents should be referred to by their full title and name in both languages.
 - **Checkboxes:** Each agent's contribution should be preceded by a checkbox (`- [ ]`).
+- **Numbered Checkboxes for Reviews:** For comprehensive sessions or expanded analyses, use numbered checkboxes (e.g., `- [ ] 1.1 EN:`) to facilitate external review and idea selection. Numbers should follow a pattern like AgentNumber.IdeaNumber (e.g., 1.1 for World Builder's first idea).
 - **Download Link:** Each file should end with a markdown link to itself for easy downloading.
 
 ### 1.3. Agent Roster
