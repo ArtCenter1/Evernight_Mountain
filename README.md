@@ -57,6 +57,9 @@
 
 *   [Phase 1: Complete Analysis / 第一階段：完整分析](Docs/phase_1_complete_analysis_bilingual.md)
 *   [Phase 2: Plot & Structure Session / 第二階段：情節與結構會議](Docs/plot_and_structure_session_bilingual.md)
+*   [Phase 2: Extended Plot & Structure / 第二階段：擴展情節與結構](Docs/phase_2_extended_plot_structure_bilingual.md)
+*   [Phase 2: Party Mode Plot & Structure / 第二階段：派對模式情節與結構](Docs/phase_2_party_mode_plot_structure_bilingual.md)
+*   [Phase 2: Reorganized Plot & Structure / 第二階段：重新組織情節與結構](Docs/phase_2_reorganized_plot_structure_bilingual.md)
 *   [Phase 3: Character Development Session / 第三階段：角色發展會議](Docs/character_development_session_bilingual.md)
 
 ---
