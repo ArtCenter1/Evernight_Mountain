@@ -77,4 +77,4 @@ These ideas provide a comprehensive foundation for *Evernight Mountain*, with nu
 
 [Return to Home Page](../README.md) / [返回主頁](../README.md)
 
-<div style="text-align: right; margin-top: 20px;"><a href="plot_and_structure_session_bilingual.md">Next / 下一頁</a></div>
+<div style="text-align: right; margin-top: 20px;"><a href="phase_2_plot_and_structure_session_bilingual.md">Next / 下一頁</a></div>

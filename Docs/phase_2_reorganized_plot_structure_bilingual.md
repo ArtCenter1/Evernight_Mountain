@@ -139,5 +139,5 @@ This reorganized session groups all ideas by Arthur's workflow questions for bet
 </div>
 
 <div style="text-align: right; margin-top: 20px;">
-  <a href="phase_3_character_development_session_bilingual.md">Next / 下一頁</a>
+  <a href="character_development_session_bilingual.md">Next / 下一頁</a>
 </div>
