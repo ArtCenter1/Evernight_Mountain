@@ -147,3 +147,5 @@ This extended session builds on the original Plot & Structure Session, with each
 **Download Link / 下載連結:** [phase_2_extended_plot_structure_bilingual.md](Docs/phase_2_extended_plot_structure_bilingual.md)
 
 [Return to Home Page](../README.md) / [返回主頁](../README.md)
+
+<div style="text-align: right; margin-top: 20px;"><a href="phase_2_party_mode_plot_structure_bilingual.md">Next / 下一頁</a></div>

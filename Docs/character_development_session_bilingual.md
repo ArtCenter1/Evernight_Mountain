@@ -1,5 +1,9 @@
 # Character Development Session / 角色發展會議
 
+<div style="text-align: left; margin-bottom: 20px;">
+  <a href="../README.md">Return to Home Page / 返回主頁</a>
+</div>
+
 **Topic Focus:** Building on the plot structure from our last session, we'll refine character arcs, motivations, and backstories to ensure they align with the narrative's themes (e.g., mystery, redemption, and cultural elements in *Evernight Mountain*). As Producer, I'll emphasize how these developments impact production feasibility, such as casting considerations, budget for character-specific props/costumes, and scheduling for script revisions. / **主題重點：** 在上次會議的情節結構基礎上，我們將修訂角色弧線、動機和背景故事，以確保它們與敘述主題一致（例如《永夜山》中的神秘、救贖和文化元素）。身為製作人，我將強調這些發展如何影響製作可行性，例如選角考慮、角色特定道具/服裝預算，以及劇本修訂的時間表。
 
 **Date/Time:** 2025-08-21 / 20:46 (Taipei Time) / **日期/時間：** 2025-08-21 / 20:46（台北時間）  
@@ -41,3 +45,7 @@
 *   **General Observations / 綜合觀察:** The BMad method excels in collaborative creativity but could benefit from predefined time slots per agent to prevent overruns. Overall, this session advanced *Evernight Mountain* toward pre-production milestones. / BMad 方法在協作創意方面表現出色，但可受益於為每個代理預定義時間段以防止超時。總體而言，此會議推進了《永夜山》朝向前期製作里程碑。
 
 **Download Link / 下載連結:** [character_development_session_bilingual.md](Docs/character_development_session_bilingual.md)
+
+<div style="text-align: left; margin-top: 20px;">
+  <a href="../README.md">Return to Home Page / 返回主頁</a>
+</div>

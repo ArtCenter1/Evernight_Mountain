@@ -70,3 +70,5 @@ Let's start with the first question. Team, what are your ideas for foreshadowing
 ---
 
 [Return to Home Page](../README.md)
+
+<div style="text-align: right; margin-top: 20px;"><a href="phase_2_extended_plot_structure_bilingual.md">Next / 下一頁</a></div>

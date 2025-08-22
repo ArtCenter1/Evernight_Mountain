@@ -77,4 +77,6 @@ Who's got the first wild idea? Let's make this legendary! 🌟
 
 [Return to Home Page](../README.md) / [返回主頁](../README.md)
 
+<div style="text-align: right; margin-top: 20px;"><a href="phase_2_reorganized_plot_structure_bilingual.md">Next / 下一頁</a></div>
+
 **Party's Over... For Now!** 🎊 But the creativity continues! 🌟

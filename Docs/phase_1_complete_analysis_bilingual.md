@@ -76,3 +76,5 @@ This document combines the original Phase 1 Initial Analysis with the expanded i
 These ideas provide a comprehensive foundation for *Evernight Mountain*, with numbered checkboxes for easy review and selection by external stakeholders. / 這些想法為《永夜山》提供了全面的基礎，帶有編號複選框，方便外部利益相關者審查和選擇。
 
 [Return to Home Page](../README.md) / [返回主頁](../README.md)
+
+<div style="text-align: right; margin-top: 20px;"><a href="plot_and_structure_session_bilingual.md">Next / 下一頁</a></div>

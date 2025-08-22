@@ -63,3 +63,7 @@
 *   [Phase 3: Character Development Session / 第三階段：角色發展會議](Docs/character_development_session_bilingual.md)
 
 ---
+
+<div style="text-align: right; margin-top: 20px;">
+  <a href="Docs/phase_1_complete_analysis_bilingual.md">Next / 下一頁</a>
+</div>
