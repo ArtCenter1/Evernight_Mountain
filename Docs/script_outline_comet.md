@@ -1,5 +1,4 @@
 # Evernight Mountain - Feature Film Script Outline
-
 **Project**: Adaptation of 永夜山_vincent.pdf comic
 **Branch**: comet
 **Date**: August 24, 2025
@@ -8,7 +7,6 @@
 ---
 
 ## Overview
-
 This outline synthesizes key elements from agent meetings and the original 永夜山_vincent.pdf comic to create a cohesive feature film adaptation. The story centers on themes of identity, transformation, and the blurred lines between reality and nightmare.
 
 **Core Concept**: A psychological horror thriller exploring identity swap mechanisms and the nature of consciousness through supernatural mountain folklore.
@@ -148,7 +146,6 @@ This outline synthesizes key elements from agent meetings and the original 永�
 ---
 
 ## Dialogue and Voice Development
-
 [TODO: Dialogue Agent - Focus areas for script development]
 1. **Vincent's Internal Monologue**: Reflecting his identity confusion
 2. **The Guide's Cryptic Warnings**: Foreshadowing and mystery building
@@ -190,11 +187,57 @@ This outline synthesizes key elements from agent meetings and the original 永�
 ---
 
 ## Reference Materials
-
 - Phase 1-3 analysis documents in /Docs folder
 - 永夜山_vincent.pdf original comic
 - Character development session notes
 - Plot structure session transcripts
+
+---
+
+## Key Dialogue Excerpts
+
+### Scene 1: Vincent's Internal Monologue - First Signs of Identity Confusion
+*Location: Mountain path, late afternoon, after first supernatural encounter*
+
+**VINCENT (V.O.)**
+*The thoughts... they're not quite right. Like wearing someone else's clothes that almost fit, but the sleeves are wrong, the shoulders too tight. I remember being here before, but I've never been here. I remember faces I've never seen, voices calling a name that isn't mine... or is it?*
+
+*These hands... when did they get these scars? When did I learn to read the mountain's moods in the wind patterns? The group thinks I'm their guide, and part of me knows I am, but another part... another part is screaming that this is all wrong.*
+
+*Who am I when the sun sets? Who will I be when it rises?*
+
+---
+
+### Scene 2: The Guide's Cryptic Warning
+*Location: Base camp, around the campfire, night before entering the mountain's heart*
+
+**THE GUIDE**
+*(staring into the flames, voice low and hypnotic)*
+The mountain takes what it needs and gives what it must. Some of you came here seeking adventure, others running from something. But the mountain doesn't care about your reasons.
+
+*(looks up, eyes reflecting firelight)*
+Before we enter the heart tomorrow, you must understand—identity is like water. It finds the shape of whatever contains it. Up there *(gestures toward the peak)*, the containers are... different.
+
+**SARAH**
+What does that mean?
+
+**THE GUIDE**
+*(cryptic smile)*
+It means some of you will find exactly who you've always been. And some of you will discover you never existed at all.
+
+*(stands, shadow looming)*
+The mountain remembers every soul that's walked its paths. But memory and identity... they're not the same thing. Sometimes the mountain gets confused about which belongs to whom.
+
+**VINCENT**
+*(unsettled)*
+Are you trying to scare us?
+
+**THE GUIDE**
+*(looking directly at Vincent)*
+I'm trying to prepare you. Because once we cross the threshold, there's no guarantee the person who enters will be the person who leaves. The mountain has been... collecting... for a very long time.
+
+*(pause, wind whistling)*
+Sleep well. Tomorrow, you meet yourselves.
 
 ---
 
